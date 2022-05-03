@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088510700182",
+    "project_id": "health-o-meter-349118",
+    "storage_bucket": "health-o-meter-349118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088510700182:android:459c6eabedfd88a940b0b7",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.w9540731"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088510700182-rrg38gjn133saaqc5fp165446eudrqem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.tees.w9540731",
+            "certificate_hash": "5d727d45de3887a3c9d36cdb96b9370936ad41ed"
+          }
+        },
+        {
+          "client_id": "1088510700182-69c970sivr75lh1gmkang6bh0qusvmq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2Id7eZJ8Ba0V_Jh3ZRqugo-WwDtUgOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088510700182-69c970sivr75lh1gmkang6bh0qusvmq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
